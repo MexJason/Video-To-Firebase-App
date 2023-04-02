@@ -4,7 +4,7 @@
 
 # Video tutorial
 
-    https://www.youtube.com/watch?v=wuArhMaD5Hc
+    [https://www.youtube.com/watch?v=wuArhMaD5Hc](https://youtu.be/qpOsR3YQvQY)
 
 # Description
 
